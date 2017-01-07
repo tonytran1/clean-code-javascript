@@ -53,8 +53,8 @@ var yearMonthDay = moment().format('YYYY/MM/DD');
 **[⬆ back to top](#table-of-contents)**
 
 ### Use ES6 constants when variable values do not change
-In the bad example, the variable can be changed.
-When you declare a constant, the variable should stay
+In the bad example, the variable value can be changed.
+When you declare a constant, the variable value should stay
 the same throughout the program.
 
 
